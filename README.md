@@ -1,7 +1,4 @@
 # Data Science & Analytics Projects
-Below is a **clean, Meta-ready `README.md` description** you can **paste directly** into your GitHub repo.
-It’s concise, professional, and clearly explains **what each notebook demonstrates**.
-
 ---
 
 ## Data Science & Analytics Projects
@@ -58,4 +55,4 @@ Develops regression models to predict housing prices based on property features.
 
 ---
 
-I
+
